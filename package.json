@@ -1,0 +1,24 @@
+{
+  "name": "imgs",
+  "version": "1.0.0",
+  "description": "Leaarn Node & MongeDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmberAAA/imgs.git"
+  },
+  "author": "Amber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmberAAA/imgs/issues"
+  },
+  "homepage": "https://github.com/AmberAAA/imgs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mongodb": "^2.2.31",
+    "request": "^2.82.0"
+  }
+}
